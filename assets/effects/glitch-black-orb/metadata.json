@@ -1,0 +1,46 @@
+{
+  "id": "glitch-black-orb",
+  "name": "Glitch Black Orb",
+  "category": "effects",
+  "tags": [
+    "glitch",
+    "black-orb",
+    "chromatic-aberration",
+    "abstract",
+    "flicker",
+    "noise",
+    "loop"
+  ],
+  "description": "A black circular orb with subtle jittering edges and chromatic glitch artifacts.",
+  "duration": 1.918,
+  "frames": 64,
+  "dimensions": [
+    848,
+    848
+  ],
+  "formats": [
+    "webp",
+    "gif",
+    "mp4"
+  ],
+  "transparent": false,
+  "loop": true,
+  "recommendedUse": [
+    "ui",
+    "software",
+    "web",
+    "app",
+    "presentation",
+    "bot",
+    "creative-project"
+  ],
+  "source": "user-provided video converted by Hermes Agent",
+  "license": "unknown",
+  "backgroundColor": "#e9e9e9",
+  "crop": [
+    0,
+    0,
+    848,
+    848
+  ]
+}

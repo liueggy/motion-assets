@@ -1,0 +1,48 @@
+{
+  "id": "spinning-pixel-heart",
+  "name": "Spinning Pixel Heart",
+  "category": "stickers",
+  "tags": [
+    "pixel-art",
+    "heart",
+    "love",
+    "voxel",
+    "pink",
+    "spinning",
+    "retro",
+    "game-asset",
+    "loop"
+  ],
+  "description": "A neon pink pixel-art voxel heart spins with motion blur on a dark background.",
+  "duration": 2.698,
+  "frames": 90,
+  "dimensions": [
+    718,
+    718
+  ],
+  "formats": [
+    "webp",
+    "gif",
+    "mp4"
+  ],
+  "transparent": false,
+  "loop": true,
+  "recommendedUse": [
+    "ui",
+    "software",
+    "web",
+    "app",
+    "presentation",
+    "bot",
+    "creative-project"
+  ],
+  "source": "user-provided video converted by Hermes Agent",
+  "license": "unknown",
+  "backgroundColor": "#242424",
+  "crop": [
+    130,
+    130,
+    848,
+    848
+  ]
+}

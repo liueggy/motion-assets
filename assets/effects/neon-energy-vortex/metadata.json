@@ -1,0 +1,48 @@
+{
+  "id": "neon-energy-vortex",
+  "name": "Neon Energy Vortex",
+  "category": "effects",
+  "tags": [
+    "neon",
+    "vortex",
+    "energy",
+    "particles",
+    "abstract",
+    "loop",
+    "glow",
+    "sci-fi",
+    "swirl"
+  ],
+  "description": "A looping abstract neon energy vortex made of colorful swirling particle trails on a black background.",
+  "duration": 2.698,
+  "frames": 90,
+  "dimensions": [
+    660,
+    660
+  ],
+  "formats": [
+    "webp",
+    "gif",
+    "mp4"
+  ],
+  "transparent": false,
+  "loop": true,
+  "recommendedUse": [
+    "ui",
+    "software",
+    "web",
+    "app",
+    "presentation",
+    "bot",
+    "creative-project"
+  ],
+  "source": "user-provided video converted by Hermes Agent",
+  "license": "unknown",
+  "backgroundColor": "#000000",
+  "crop": [
+    96,
+    98,
+    756,
+    758
+  ]
+}

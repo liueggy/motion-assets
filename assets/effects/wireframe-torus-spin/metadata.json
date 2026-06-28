@@ -1,0 +1,47 @@
+{
+  "id": "wireframe-torus-spin",
+  "name": "Wireframe Torus Spin",
+  "category": "effects",
+  "tags": [
+    "wireframe",
+    "torus",
+    "rotating",
+    "particle",
+    "hologram",
+    "sci-fi",
+    "loop",
+    "3d"
+  ],
+  "description": "A dark sci-fi rotating wireframe torus rendered as a subtle holographic particle mesh.",
+  "duration": 1.598,
+  "frames": 80,
+  "dimensions": [
+    768,
+    768
+  ],
+  "formats": [
+    "webp",
+    "gif",
+    "mp4"
+  ],
+  "transparent": false,
+  "loop": true,
+  "recommendedUse": [
+    "ui",
+    "software",
+    "web",
+    "app",
+    "presentation",
+    "bot",
+    "creative-project"
+  ],
+  "source": "user-provided video converted by Hermes Agent",
+  "license": "unknown",
+  "backgroundColor": "#000000",
+  "crop": [
+    40,
+    40,
+    808,
+    808
+  ]
+}

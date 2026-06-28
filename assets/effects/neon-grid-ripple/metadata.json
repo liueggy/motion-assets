@@ -1,0 +1,49 @@
+{
+  "id": "neon-grid-ripple",
+  "name": "Neon Grid Ripple",
+  "category": "effects",
+  "tags": [
+    "neon",
+    "grid",
+    "ripple",
+    "glitch",
+    "pixel-art",
+    "loop",
+    "abstract",
+    "wave",
+    "3d-surface",
+    "sci-fi"
+  ],
+  "description": "A looping neon pixel-art grid surface ripples and deforms like a glowing digital membrane.",
+  "duration": 2.728,
+  "frames": 91,
+  "dimensions": [
+    708,
+    708
+  ],
+  "formats": [
+    "webp",
+    "gif",
+    "mp4"
+  ],
+  "transparent": false,
+  "loop": true,
+  "recommendedUse": [
+    "ui",
+    "software",
+    "web",
+    "app",
+    "presentation",
+    "bot",
+    "creative-project"
+  ],
+  "source": "user-provided video converted by Hermes Agent",
+  "license": "unknown",
+  "backgroundColor": "#000000",
+  "crop": [
+    72,
+    66,
+    780,
+    774
+  ]
+}

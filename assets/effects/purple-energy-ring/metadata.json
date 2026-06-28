@@ -1,0 +1,48 @@
+{
+  "id": "purple-energy-ring",
+  "name": "Purple Energy Ring",
+  "category": "effects",
+  "tags": [
+    "purple",
+    "energy",
+    "ring",
+    "portal",
+    "magic",
+    "glow",
+    "loop",
+    "sci-fi",
+    "particle"
+  ],
+  "description": "A looping purple glowing energy ring animation suitable for magic portals, sci-fi effects, or charge-up VFX.",
+  "duration": 2.698,
+  "frames": 90,
+  "dimensions": [
+    848,
+    454
+  ],
+  "formats": [
+    "webp",
+    "gif",
+    "mp4"
+  ],
+  "transparent": false,
+  "loop": true,
+  "recommendedUse": [
+    "ui",
+    "software",
+    "web",
+    "app",
+    "presentation",
+    "bot",
+    "creative-project"
+  ],
+  "source": "user-provided video converted by Hermes Agent",
+  "license": "unknown",
+  "backgroundColor": "#161617",
+  "crop": [
+    0,
+    21,
+    848,
+    475
+  ]
+}

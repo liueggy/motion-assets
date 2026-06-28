@@ -1,0 +1,48 @@
+{
+  "id": "neon-orb-spinner",
+  "name": "Neon Orb Spinner",
+  "category": "loaders",
+  "tags": [
+    "neon",
+    "spinner",
+    "loading",
+    "glow",
+    "sci-fi",
+    "hud",
+    "energy-ring",
+    "blue-purple",
+    "loop"
+  ],
+  "description": "A glowing blue-purple circular spinner animation with rotating dots and energy-ring effects.",
+  "duration": 9.208,
+  "frames": 307,
+  "dimensions": [
+    572,
+    572
+  ],
+  "formats": [
+    "webp",
+    "gif",
+    "mp4"
+  ],
+  "transparent": false,
+  "loop": true,
+  "recommendedUse": [
+    "ui",
+    "software",
+    "web",
+    "app",
+    "presentation",
+    "bot",
+    "creative-project"
+  ],
+  "source": "user-provided video converted by Hermes Agent",
+  "license": "unknown",
+  "backgroundColor": "#000000",
+  "crop": [
+    140,
+    64,
+    712,
+    636
+  ]
+}
