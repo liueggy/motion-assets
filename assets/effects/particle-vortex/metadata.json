@@ -1,0 +1,47 @@
+{
+  "id": "particle-vortex",
+  "name": "Particle Vortex",
+  "category": "effects",
+  "tags": [
+    "particle",
+    "vortex",
+    "spiral",
+    "galaxy",
+    "energy",
+    "space",
+    "abstract",
+    "loop"
+  ],
+  "description": "A dark particle vortex animation showing swirling galaxy-like energy motion.",
+  "duration": 2.658,
+  "frames": 133,
+  "dimensions": [
+    778,
+    778
+  ],
+  "formats": [
+    "webp",
+    "gif",
+    "mp4"
+  ],
+  "transparent": false,
+  "loop": true,
+  "recommendedUse": [
+    "ui",
+    "software",
+    "web",
+    "app",
+    "presentation",
+    "bot",
+    "creative-project"
+  ],
+  "source": "user-provided video converted by Hermes Agent",
+  "license": "unknown",
+  "backgroundColor": "#000000",
+  "crop": [
+    40,
+    70,
+    818,
+    848
+  ]
+}
