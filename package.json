@@ -1,0 +1,23 @@
+{
+  "name": "@liueggy/motion-assets",
+  "version": "0.1.0",
+  "description": "Optimized motion assets for apps, websites, interfaces, presentations, bots, and creative projects.",
+  "type": "module",
+  "files": [
+    "assets",
+    "packages",
+    "docs",
+    "examples",
+    "README.md"
+  ],
+  "keywords": [
+    "motion-assets",
+    "animation",
+    "gif",
+    "webp",
+    "assets",
+    "ui"
+  ],
+  "author": "liueggy <3157487230@qq.com>",
+  "license": "MIT"
+}

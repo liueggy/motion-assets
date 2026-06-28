@@ -1,0 +1,36 @@
+{
+  "id": "neon-triangle-morph",
+  "name": "Neon Triangle Morph",
+  "category": "effects",
+  "tags": [
+    "neon",
+    "triangle",
+    "morph",
+    "loop",
+    "geometric",
+    "transparent"
+  ],
+  "duration": 2.52,
+  "frames": 63,
+  "dimensions": [
+    429,
+    429
+  ],
+  "formats": [
+    "webp",
+    "gif",
+    "mp4"
+  ],
+  "transparent": true,
+  "loop": true,
+  "recommendedUse": [
+    "loading",
+    "splash",
+    "branding",
+    "empty-state",
+    "decorative-effect"
+  ],
+  "source": "user-provided video converted by Hermes Agent",
+  "license": "unknown",
+  "notes": "Use motion-black.webp for exact black-background rendering; use motion-transparent.webp for overlays."
+}
