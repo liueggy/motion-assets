@@ -32,5 +32,6 @@
   ],
   "source": "user-provided video converted by Hermes Agent",
   "license": "unknown",
-  "notes": "Use motion-black.webp for exact black-background rendering; use motion-transparent.webp for overlays."
+  "notes": "Use motion-black.webp for exact black-background rendering; use motion-transparent.webp for overlays.",
+  "transparentPreview": true
 }
